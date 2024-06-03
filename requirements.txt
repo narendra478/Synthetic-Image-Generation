@@ -1,0 +1,12 @@
+tensorflow==2.15
+numpy
+matplotlib
+opencv-python
+IPython
+scikit-image
+ipykernel
+torch
+torchvision
+streamlit
+transformers
+Pillow
